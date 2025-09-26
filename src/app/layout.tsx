@@ -9,7 +9,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    template: "%s - AutoCVs - AI Resume Builder",
+    template: "%s - AI Resume Builder",
     absolute: "AutoCVs - An AI Resume Builder"
   },
   description: "AutoCV is an excellent tool to craft perfect resume for yourself and it will help you land your dream role",
